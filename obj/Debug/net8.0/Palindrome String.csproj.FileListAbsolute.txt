@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\C# - Practice\Palindrome String\bin\Debug\net8.0\Palindrome String.exe
+C:\Users\User\Desktop\C# - Practice\Palindrome String\bin\Debug\net8.0\Palindrome String.deps.json
+C:\Users\User\Desktop\C# - Practice\Palindrome String\bin\Debug\net8.0\Palindrome String.runtimeconfig.json
+c:\Users\User\Desktop\C# - Practice\Palindrome String\bin\Debug\net8.0\Palindrome String.dll
+c:\Users\User\Desktop\C# - Practice\Palindrome String\bin\Debug\net8.0\Palindrome String.pdb
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.AssemblyInfo.cs
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.dll
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\refint\Palindrome String.dll
+c:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.pdb
+C:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\Palindrome String.genruntimeconfig.cache
+C:\Users\User\Desktop\C# - Practice\Palindrome String\obj\Debug\net8.0\ref\Palindrome String.dll
